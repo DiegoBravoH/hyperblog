@@ -4,4 +4,4 @@ Mi nombre es Diego y tengo 32 años
 Soy ingeniero en mectaónica
 Y estoy estudiando un doctorado
 
-Esta es la trayectoria y maestría
+Esta es la trayectoria y maestría. Caso de estudio
